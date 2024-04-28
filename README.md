@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Java/Oracle
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning Azure and I.A
 
 <div align="center">
   <a href="https://github.com/vizolidaniel">
